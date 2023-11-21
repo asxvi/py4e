@@ -4,5 +4,7 @@ I created this to learn the basics of python following the PY4E course. I have a
 
 # Nov 21, 2023
 completed lesson 3
+
 completed lesson 4
+
 completed lesson 5
